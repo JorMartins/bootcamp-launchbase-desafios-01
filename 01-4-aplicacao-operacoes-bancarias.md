@@ -48,7 +48,7 @@ getAverageTransactionValue() // 83.3
 - Crie uma função chamada `getTransactionsCount` que retorna o número de transações de cada tipo `credit/debit`, o retorno da função deve ser um objeto e seguir exatamente como o modelo apresentado abaixo:
 
 ```js
-getTransactionsCount() // { credit: 5, debit: 3 }
+getTransactionsCount() // { credit: 2, debit: 2 }
 ```
 
 ## Exemplo de resultado final do projeto:
