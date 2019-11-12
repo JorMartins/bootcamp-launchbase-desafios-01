@@ -42,7 +42,7 @@ getHigherTransactionByType('credit') // { type: 'credit', value: 120 }
 - Crie uma função chamada `getAverageTransactionValue` que retorna o valor médio das transações de um usuário independente do seu tipo:
 
 ```js
-getAverageTransactionValue() // 83.3
+getAverageTransactionValue() // 70
 ```
 
 - Crie uma função chamada `getTransactionsCount` que retorna o número de transações de cada tipo `credit/debit`, o retorno da função deve ser um objeto e seguir exatamente como o modelo apresentado abaixo:
